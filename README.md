@@ -6,7 +6,7 @@ First of all, all files mentioned below, except the report of course, must be pl
 
 This GitHub repository contains all the Jupyter Notebooks and any additional necessary files for this project to work. More specifically it contains:
 
-1) a folder named "Notebook" containing the "Disease-Symptoms-Predictions" and "Graphs and Predictions - COVID 19 Patients" notebooks
+1) a folder named "Notebooks" containing the "Disease-Symptoms-Predictions" and "Graphs and Predictions - COVID 19 Patients" notebooks
 
 2) a folder named "Datasets" containing the two datasets used for both notebooks
 
